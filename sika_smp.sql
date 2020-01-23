@@ -39,7 +39,7 @@ CREATE TABLE `api` (
 --
 
 INSERT INTO `api` (`id`, `userkey`, `passkey`) VALUES
-(1, 'ql8e5o', 'h3e7fpdh3c');
+(1, 'ql8eo', 'h3fpdh3c');
 
 -- --------------------------------------------------------
 
