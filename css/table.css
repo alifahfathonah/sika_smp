@@ -1,0 +1,77 @@
+.datatabel {
+	border: 1px solid;
+	border-collapse: collapse;
+}
+.th{
+	background-color: black;	
+	border: 1px;
+	color: white;
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 1.5em;
+}
+.td {
+	border: 1px solid #696969;
+	font-family: Times New Roman;
+	height: 50px;
+	font-size: 1.5em;
+}
+.no{
+	border: 1px solid #696969;
+	font-family: Times New Roman;
+	width: 30px;
+	font-size: 1.5em;
+}
+.nm {
+	border: 1px solid #696969;
+	font-family: Times New Roman;
+	width: 100px;
+	font-size: 1.5em;
+}
+.n {
+	border: 1px solid #696969;
+	font-family: Times New Roman;
+	width: 200px;
+	font-size: 1.5em;
+}
+.jk{
+	border: 1px solid #696969;
+	font-family: Times New Roman;
+	width: 30px;
+	font-size: 1.5em;
+}
+.j{
+	border: 1px solid #696969;
+	font-family: Times New Roman;
+	width: 200px;
+	font-size: 1.5em;
+}
+.e{
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 1.5em;
+}
+.aa{
+	border: 1px solid #696969;
+	font-family: Times New Roman;
+	width: 150px;
+	font-size: 1.5em;
+}
+.na {
+	border: 1px solid #696969;
+	font-family: Times New Roman;
+	width: 200px;
+	font-size: 1.5em;
+}
+.t {
+	border: 1px solid #696969;
+	font-family: Times New Roman;
+	width: 100px;
+	font-size: 1.5em;
+}
+.ww {
+	border: 1px solid #696969;
+	font-family: Times New Roman;
+	width: 100px;
+	font-size: 1.5em;
+}
